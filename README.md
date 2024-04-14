@@ -5,6 +5,8 @@ LogJam is free MacOS app that let's user view logs and video side by side.
 
 [Try now](https://logjam.pro/)
 
+[Wiki](https://github.com/nedimf/LogJam/wiki)
+
 ### Precise Timestamp Extraction
 Effortlessly parse precise timestamps from log entries, capturing detailed date and time information down to milliseconds. Essential for chronological analysis and understanding the sequence of events.
 
